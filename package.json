@@ -1,0 +1,25 @@
+{
+  "name": "sparql-js",
+  "version": "1.0.0",
+  "description": "Constructs SPARQL query strings from JavaScript literals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:blake-regalia/sparql-js.git"
+  },
+  "keywords": [
+    "sparql",
+    "rdf",
+    "linked-data",
+    "semantic-web"
+  ],
+  "author": "Blake Regalia <blake.regalia@gmail.com> (http://blurcast.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blake-regalia/sparql-js/issues"
+  },
+  "homepage": "https://github.com/blake-regalia/sparql-js"
+}
