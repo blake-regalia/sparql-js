@@ -1,2 +1,1 @@
-# sparql-js
-Constructs SPARQL query strings from JavaScript literals
+Project has been moved to: (spaz.js)[https://github.com/blake-regalia/spaz.js]
